@@ -1,0 +1,10 @@
+res://scrolling_bg/scrolling_bg.tscn
+res://scrolling_layer/scrolling_layer.tscn
+res://game/game.tscn
+res://pipe/pipe.tscn
+res://laser/laser.tscn
+res://plane_cb/plane_cb.tscn
+res://pipes/pipes.tscn
+res://main/main.tscn
+res://game_over/game_over.tscn
+res://hud/hud.tscn
